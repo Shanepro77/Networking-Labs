@@ -1,5 +1,5 @@
 # Networking-Labs
-Display all network fundamentals
+
 ## Overview
 This repo demonstrates my understanding of networking fundamentals: IP addressing, subnetting, and basic protocols.
 
